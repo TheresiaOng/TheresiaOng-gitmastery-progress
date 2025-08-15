@@ -115,23 +115,5 @@
       "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755241269.62742,
-    "completed_at": 1755241270.070751,
-    "comments": [
-      "'CommitHelper' object has no attribute 'commit_or_none'"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755241462.242536,
-    "completed_at": 1755241462.308762,
-    "comments": [
-      "'CommitHelper' object has no attribute 'commit_or_none'"
-    ],
-    "status": "Error"
   }
 ]
