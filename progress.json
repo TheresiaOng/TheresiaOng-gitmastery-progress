@@ -135,15 +135,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1755191343.619778,
-    "completed_at": 1755191344.05808,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "log-and-order",
     "started_at": 1767779038.566058,
     "completed_at": 1767779040.36736,
