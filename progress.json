@@ -160,15 +160,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1755187816.679892,
-    "completed_at": 1755187896.136548,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "side-track",
     "started_at": 1755917069.326777,
     "completed_at": 1755917069.963741,
