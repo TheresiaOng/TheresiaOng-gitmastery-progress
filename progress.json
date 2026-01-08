@@ -27,42 +27,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "clone-repo",
-    "started_at": 1755239042.432315,
-    "completed_at": 1755239044.479874,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755239079.811074,
-    "completed_at": 1755239081.95848,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755239362.09874,
-    "completed_at": 1755239363.85937,
-    "comments": [
-      "The upstream remote does not point to the original repository!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755239447.212266,
-    "completed_at": 1755239449.38081,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "conflict-mediator",
     "started_at": 1755921915.976242,
     "completed_at": 1755921916.089074,
