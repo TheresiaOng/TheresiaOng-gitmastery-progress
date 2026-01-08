@@ -142,15 +142,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "push-over",
-    "started_at": 1755194078.359538,
-    "completed_at": 1755194082.02028,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "side-track",
     "started_at": 1755917069.326777,
     "completed_at": 1755917069.963741,
