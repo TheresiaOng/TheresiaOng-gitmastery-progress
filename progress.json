@@ -329,5 +329,16 @@
       "You are missing the 'january-update' tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1768480228.910074,
+    "completed_at": 1768480235.417409,
+    "comments": [
+      "Tag v1.0 is missing, did you push it to the remote?",
+      "Tag v2.0 is missing, did you push it to the remote?",
+      "Tag beta is still on the remote!"
+    ],
+    "status": "Incomplete"
   }
 ]
