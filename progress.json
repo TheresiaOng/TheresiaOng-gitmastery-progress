@@ -329,14 +329,5 @@
       "You are missing the 'january-update' tag."
     ],
     "status": "Incomplete"
-  },
-  {
-    "exercise_name": "tags-push",
-    "started_at": 1768480056.738834,
-    "completed_at": 1768480062.128746,
-    "comments": [
-      "Wonderful! You have successfully synced the local tags with the remote tags!"
-    ],
-    "status": "Completed"
   }
 ]
