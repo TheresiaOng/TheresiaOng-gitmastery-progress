@@ -358,5 +358,15 @@
       "Great work traversing the revision history!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1768483578.614315,
+    "completed_at": 1768483581.629388,
+    "comments": [
+      "Unexpected files in working directory. Looks like you used the wrong reset mode.",
+      "Unexpected files in staging area. Looks like you used the wrong reset mode."
+    ],
+    "status": "Incomplete"
   }
 ]
