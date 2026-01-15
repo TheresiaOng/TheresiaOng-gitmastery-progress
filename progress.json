@@ -340,5 +340,14 @@
       "Tag beta is still on the remote!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1768481426.10797,
+    "completed_at": 1768481427.546863,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
   }
 ]
