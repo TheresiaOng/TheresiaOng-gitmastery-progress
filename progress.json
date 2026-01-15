@@ -319,23 +319,5 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-update",
-    "started_at": 1768479723.381913,
-    "completed_at": 1768479726.401894,
-    "comments": [
-      "You are missing the 'april-update' tag."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "tags-update",
-    "started_at": 1768479753.211411,
-    "completed_at": 1768479754.588614,
-    "comments": [
-      "Great work! You have successfully updated the tags to point to the correct commits."
-    ],
-    "status": "Completed"
   }
 ]
