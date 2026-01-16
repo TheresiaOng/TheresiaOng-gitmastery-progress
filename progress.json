@@ -367,5 +367,14 @@
       "You are missing the bug-fix branch"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1768579845.309634,
+    "completed_at": 1768579848.612258,
+    "comments": [
+      "No commits were made in the 'sleep-line' branch."
+    ],
+    "status": "Incomplete"
   }
 ]
