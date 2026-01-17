@@ -18,15 +18,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "conflict-mediator",
-    "started_at": 1755921915.976242,
-    "completed_at": 1755921916.089074,
-    "comments": [
-      "Great work resolving the merge conflict!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "fork-repo",
     "started_at": 1755238149.672494,
     "completed_at": 1755238151.953709,
@@ -401,15 +392,6 @@
     "completed_at": 1768583723.857006,
     "comments": [
       "Good job performing a merge squash!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "conflict-mediator",
-    "started_at": 1768619288.873042,
-    "completed_at": 1768619290.345811,
-    "comments": [
-      "Great work resolving the merge conflict!"
     ],
     "status": "Completed"
   }
